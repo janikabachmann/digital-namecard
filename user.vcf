@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+N:Bachmann;Janika;;;
+FN: Janika  Bachmann 
+ORG:Seiyu;
+TITLE:Advanced Retail Analytics\nCorporate Strategy, Seiyu
+EMAIL;type=INTERNET;type=WORK;type=pref:janika_bachmann@walmart.com
+TEL;type=WORK;type=VOICE:070 1290 6774
+item1.ADR;type=WORK;type=pref:;;1-1 Akabane Kitaku\nTokyo\, ;;;115-0045;Japan
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:seiyu.co.jp
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
