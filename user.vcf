@@ -3,12 +3,12 @@ VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Bachmann;Janika;;;
 FN: Janika  Bachmann 
-ORG:Seiyu;
-TITLE:Advanced Retail Analytics\nCorporate Strategy
-EMAIL;type=INTERNET;type=WORK;type=pref:janika_bachmann@walmart.com
-TEL;type=WORK;type=VOICE:070 1290 6774
-item1.ADR;type=WORK;type=pref:;;1-1 Akabane Kitaku\nTokyo\, ;;;115-0045;Japan
+ORG:KraftHeinz;
+TITLE:Growth Lead, North East Asia\nMarketing and Category Development
+EMAIL;type=INTERNET;type=WORK;type=pref:janika.bachmann@kraftheinz.com
+TEL;type=WORK;type=VOICE:080 4160 2635
+item1.ADR;type=WORK;type=pref:;;CS Tower 11F, 5-20-8 Asakusabachi\nTaito-ku, Tokyo\, ;;;111-8505;Japan
 item1.X-ABADR:sg
-item2.URL;type=pref:www.seiyu.co.jp
+item2.URL;type=pref:www.kraftheinz.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
