@@ -3,12 +3,12 @@ VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Bachmann;Janika;;;
 FN: Janika  Bachmann 
-ORG:KraftHeinz;
-TITLE:Growth Lead, North East Asia\nMarketing and Category Development
-EMAIL;type=INTERNET;type=WORK;type=pref:janika.bachmann@kraftheinz.com
-TEL;type=WORK;type=VOICE:080 4160 2635
-item1.ADR;type=WORK;type=pref:;;CS Tower 11F, 5-20-8 Asakusabachi\nTaito-ku, Tokyo\, ;;;111-8505;Japan
+ORG:Ferrero;
+TITLE:Head of Trade Marketing & Ecommerce Activation Japan\n
+EMAIL;type=INTERNET;type=WORK;type=pref:janika.bachmann@ferrero.com
+TEL;type=WORK;type=VOICE:080 4616 9019
+item1.ADR;type=WORK;type=pref:;;Iwatoku Bldg. 6F, 1-9, Ebisu-Minami 1 Chome\nShibuya-ku, Tokyo\, ;;;150-0022;Japan
 item1.X-ABADR:sg
-item2.URL;type=pref:www.kraftheinz.com
+item2.URL;type=pref:www.ferrero.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
